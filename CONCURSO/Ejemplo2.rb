@@ -8,6 +8,7 @@ def nb_year(p0, percent, aug, p)
   end
 
   # Ejemplo de uso:
+  #Algo esta mal
   initial_population = 1000
   annual_percentage_increase = 2
   new_inhabitants_per_year = 50
